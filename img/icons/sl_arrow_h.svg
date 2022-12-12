@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="33" viewBox="0 0 38 33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #fd8424;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="левая" class="cls-1" d="M32.945,21.8H20.524v5.688L5.951,16.5,20.524,5.511V11.2H32.945V21.8Z"/>
+</svg>
